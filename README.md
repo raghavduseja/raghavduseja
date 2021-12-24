@@ -25,10 +25,10 @@ Work in progress. Currently the repos are hosting some pricers, a few code snipp
 
 #### Fixed Income
 
-* [Summary: Short rate models](https://github.com/matiassingers/awesome-readme)
-* [Nelson-Siegel and Nelson-Siegel-Svensson to fit the Yield Curve](https://github.com/matiassingers/awesome-readme)
-* [Pricing a Interest Rate Cap using Black Scholes](https://github.com/matiassingers/awesome-readme)
-* [Monte Carlo: Hull White Process using QuantLib](https://github.com/matiassingers/awesome-readme)
+* [Summary: Short rate models](https://github.com/raghavduseja/Fixed-Income/blob/e798ada25c54b129622c39dc8259e8f48d0dc4cb/STIRs/Short%20rate%20models.pdf)
+* [Nelson-Siegel and Nelson-Siegel-Svensson to fit the Yield Curve](https://github.com/raghavduseja/Fixed-Income/blob/e798ada25c54b129622c39dc8259e8f48d0dc4cb/Nelson-Siegel%20and%20Nelson-Siegel-Svensson%20to%20fit%20the%20Yield%20Curve.ipynb)
+* [Pricing a Interest Rate Cap using Black Scholes](https://github.com/raghavduseja/Fixed-Income/blob/e798ada25c54b129622c39dc8259e8f48d0dc4cb/STIRs/Pricing%20an%20interest%20rate%20cap%20using%20Black%20Scholes.pdf)
+* [Monte Carlo: Hull White Process using QuantLib](https://github.com/raghavduseja/Fixed-Income/blob/e798ada25c54b129622c39dc8259e8f48d0dc4cb/Hull%20White%20Process%20using%20QuantLib.ipynb)
 
 #### Introductory Econometrics
 * [GARCH](https://github.com/matiassingers/awesome-readme)
