@@ -31,6 +31,6 @@ Work in progress. Currently the repos are hosting some pricers, a few code snipp
 * [Monte Carlo: Hull White Process using QuantLib](https://github.com/raghavduseja/Fixed-Income/blob/e798ada25c54b129622c39dc8259e8f48d0dc4cb/Hull%20White%20Process%20using%20QuantLib.ipynb)
 
 #### Introductory Econometrics
-* [GARCH](https://github.com/matiassingers/awesome-readme)
-* [ARIMA](https://github.com/matiassingers/awesome-readme)
-* [Visualising Peak-Over-Threshold (POT) and Q-Q](https://github.com/matiassingers/awesome-readme)
+* [GARCH](https://github.com/raghavduseja/Econometrics/blob/6973c3dff66a83019fe51fcf1b9752dd2718ddd6/GARCH.ipynb)
+* [ARIMA](https://github.com/raghavduseja/Econometrics/blob/6973c3dff66a83019fe51fcf1b9752dd2718ddd6/ARIMA.ipynb)
+* [Visualising Peak-Over-Threshold (POT) and Q-Q](https://github.com/raghavduseja/Econometrics/blob/6973c3dff66a83019fe51fcf1b9752dd2718ddd6/Visualizing%20Peak%20Over%20Threshold%20and%20Q-Q%20plots.ipynb)
