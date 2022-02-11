@@ -20,9 +20,11 @@ Work in progress. Currently the repos are hosting some pricers, a few code snipp
 * [Pricing a European Option using Binomial model](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Binomial/European%20Option%20pricing%20using%20Binomial%20Tree.ipynb)
 * [Pricing a American Option using Binomial model](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Binomial/American%20Option%20pricing%20using%20Binomial%20tree.ipynb)
 * [Pricing a Barrier Option (Up and Out) using Binomial model](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Binomial/Barrier%20Option%20pricing%20(Up-and-out%20option)%20.ipynb)
+* [Option pricing with Fourier transformation (Fourier Part 1)](https://github.com/raghavduseja/Options/blob/da55f28ac27d95cf672364034035b510034191ff/Option%20pricing%20with%20Fourier%20transformation%20(Fourier%20Part%201).ipynb)
+* [Option pricing with CVA (Merton Credit risk)](https://github.com/raghavduseja/Options/blob/da55f28ac27d95cf672364034035b510034191ff/Option%20pricing%20with%20CVA%20(Merton%20Credit-risk%20model).ipynb)
 * Heston Model with FFT
 * CIR Process
-* Fourier Transformation for Option Pricing
+
 
 
 
