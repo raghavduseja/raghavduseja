@@ -25,7 +25,7 @@ Work in progress. Currently the repos are hosting some pricers, a few code snipp
 )
 * [Option pricing with CVA (Merton Credit risk)](https://github.com/raghavduseja/Options/blob/c873178cc24743f024b7ce572c404d6dc21b1148/Option%20pricing%20with%20CVA%20(Merton%20Credit%20risk).ipynb)
 * Heston Model with FFT
-* CIR Process
+* Local Volatility 
 
 
 
@@ -37,6 +37,9 @@ Work in progress. Currently the repos are hosting some pricers, a few code snipp
 * [Pricing a Interest Rate Cap using Black Scholes](https://github.com/raghavduseja/Fixed-Income/blob/e798ada25c54b129622c39dc8259e8f48d0dc4cb/STIRs/Pricing%20an%20interest%20rate%20cap%20using%20Black%20Scholes.pdf)
 * [Monte Carlo: Hull White Process using QuantLib](https://github.com/raghavduseja/Fixed-Income/blob/e798ada25c54b129622c39dc8259e8f48d0dc4cb/Hull%20White%20Process%20using%20QuantLib.ipynb)
 * Processes: CIR, Vasicek, Hull-White (one factor, two factor)
+* Pricing Zero-Coupon-Bonds using short rates (risk-neutral pricing)
+* LIBOR model
+
 
 #### Introductory Econometrics
 
