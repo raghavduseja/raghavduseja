@@ -9,7 +9,7 @@ I am a derivatives trader, developing and running quant trading systems for the 
 
 
 ## Contents
-Work in progress. Currently the repos are hosting some pricers, a few code snippets and some derivations. No completed projects yet.
+Work in progress. Currently the repos are hosting a few derivations, Option pricers and some Fixed-Income code. No completed projects yet.
 
 
 #### Options
