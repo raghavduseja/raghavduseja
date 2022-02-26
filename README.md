@@ -23,7 +23,7 @@ Work in progress. Currently the repos are hosting a few derivations, Option pric
 * [Pricing a European Option using Binomial model](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Binomial/European%20Option%20pricing%20using%20Binomial%20Tree.ipynb)
 * [Pricing a American Option using Binomial model](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Binomial/American%20Option%20pricing%20using%20Binomial%20tree.ipynb)
 * [Pricing a Barrier Option (Up and Out) using Binomial model](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Binomial/Barrier%20Option%20pricing%20(Up-and-out%20option)%20.ipynb)
-* [Black-Scholes derivation](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Black%20Scholes/Black%20Scholes%20Equation%20.pdf)
+* [Black-Scholes Option pricing model, derivation](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Black%20Scholes/Black%20Scholes%20Equation%20.pdf)
 * Heston Model with FFT
 * Local Volatility 
 
