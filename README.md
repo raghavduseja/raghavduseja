@@ -19,7 +19,7 @@ Work in progress. Currently the repos are hosting a few derivations, Option pric
 * [Option pricing with Fourier-Cosine (Fourier Part 2)](https://github.com/raghavduseja/Options/blob/ee724953e1b2593373dfce462654f73a8d92f36c/Option%20pricing%20with%20Fourier-Cosine%20(Fourier%20Part%202).ipynb
 )
 * [Pricing a Lookback option using Black Scholes](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Black%20Scholes/Pricing%20Lookback%20Options%20using%20Black%20Scholes.pdf)
-* [Pricing a Interest Rate Cap using Black Scholes](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Black%20Scholes/Pricing%20an%20interest%20rate%20cap%20using%20Black%20Scholes.pdf)
+* [Pricing an Interest Rate Cap using Black Scholes](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Black%20Scholes/Pricing%20an%20interest%20rate%20cap%20using%20Black%20Scholes.pdf)
 * [Pricing a European Option using Binomial model](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Binomial/European%20Option%20pricing%20using%20Binomial%20Tree.ipynb)
 * [Pricing a American Option using Binomial model](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Binomial/American%20Option%20pricing%20using%20Binomial%20tree.ipynb)
 * [Pricing a Barrier Option (Up and Out) using Binomial model](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Binomial/Barrier%20Option%20pricing%20(Up-and-out%20option)%20.ipynb)
