@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I am a derivatives trader, developing and running quant trading systems for the Indian derivatives market. Find more at www.cauchydistribution.com
+Formerly a derivatives trader, developing and running quant trading systems for the Indian derivatives market. Find more at www.cauchydistribution.com
 
 
 
